@@ -1,0 +1,33 @@
+<article class="mb-4">
+    <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-md-10 col-lg-8 col-xl-7">
+         <h3>Konu Özeti</h3>
+            <p>Bu yazýda, keþfetmenin önemini ve insanlýðýn bu konudaki baþarýsýný inceleyeceðiz. Keþfetmenin bize nasýl fayda saðladýðýna ve gelecekte bizi neler beklediðine dair fikirler sunacaðýz.</p>
+
+            <h4>Keþfetmenin Faydalarý</h4>
+            <ul>
+                <li>Bilgi ve Anlayýþ</li>
+                <li>Teknoloji ve Ýlerleme</li>
+                <li>Yaratýcýlýk ve Yenilik</li>
+                <li>Kendini Geliþtirme</li>
+            </ul>
+
+            <h4>Ýnsanlýðýn Keþfetme Baþarýsý</h4>
+            <p>Ýnsanlýk tarihi boyunca birçok önemli keþif yapýlmýþtýr. Yeni kýtalar keþfedilmiþ, yeni uygarlýklar ortaya çýkarýlmýþ ve evrenin gizemleri çözülmüþtür. Bu keþifler, insanlýðýn ilerlemesine ve geliþmesine katkýda bulunmuþtur.</p>
+
+            <ul>
+                <li>Kristof Kolomb'un Amerika'yý Keþfi</li>
+                <li>Magellan'ýn Dünyayý Çevresi</li>
+                <li>Galileo Galilei'nin Jüpiter'in Uydularýný Keþfi</li>
+                <li>Neil Armstrong'un Ay'a Ayak Basmasý</li>
+            </ul>
+
+            <h4>Gelecekte Bizi Neler Bekliyor?</h4>
+            <p>Keþfetme arzumuz tükenmez. Gelecekte de yeni dünyalar ve yeni ufuklar keþfetmeye devam edeceðiz. Uzay araþtýrmalarý, yapay zeka ve biyoteknoloji gibi alanlarda önemli geliþmeler yaþanacaktýr. Bu geliþmeler, insanlýk için yeni fýrsatlar ve zorluklar sunacaktýr.</p>
+            <p>Keþfetmenin önemini anlamak ve bu alandaki çalýþmalarý desteklemek geleceðimiz için çok önemlidir. Keþfetmeye devam ederek evreni daha iyi anlayabilir ve insanlýðýn ilerlemesini saðlayabiliriz.</p>
+       
+            </div>
+        </div>
+    </div>
+</article>
